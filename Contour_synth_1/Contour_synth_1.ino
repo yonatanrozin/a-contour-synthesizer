@@ -1,21 +1,15 @@
+//NOTE: THIS PROGRAM USES 12 CIRCUITS. pairCount, minReads, maxReads AND transistorOuts SHOULD BE ADJUSTED ACCORDINGLY TO CHANGE CIRCUIT #
+
 const int pairCount = 12; //# of circuits
 
 const int analogIn = A7;
 
 const int minVal = 100; //lower threshold for counting reading
 
-
-
-const int minReads[pairCount] = {150, 150, 150, 148, 150, 148, 148, 149, 150, 150, 130, 159};
+//min and max readings on each circuit for standardization
+const int minReads[pairCount] = {150, 150, 150, 148, 150, 148, 148, 149, 150, 150, 130, 159}; 
 const int maxReads[pairCount] = {200, 200, 200, 198, 200, 198, 198, 202, 199, 201, 194, 208};
 
-
-/*Transistor gate pins by Arduino row:
-   (REMEMBER TO ALTERNATE ROWS)
-
-   2, 20, 19, 18, 17, 16, 15, 14
-   5, 6,  7,  8,  9,  10, 11, 12
-*/
 
 const int transistorOuts[pairCount] = {12, 14, 11, 15, 10, 16, 17, 9, 18, 8, 19, 7};
 
