@@ -23,3 +23,9 @@ The physical interface uses an Arduino wired to 16 analog circuits, each of whic
 **edit: in the schematic above, the label A17 should read A7 and the range of Rs should read ≈0-2kΩ.**
 
 Since each circuit produces an analog (non-binary) signal, the circuits need to output to a single analog pin, since the Arduino Nano 33 IoT only has 7 and the number of circuits is 16. To accomplish this, a series of digital pins, of which the Arduino Nano has 20, enable and disable a series of transistors one at a time so the resistance on their corresponding analog circuit can be measured. This prevents the circuits from interfering with each other, even though they're all wired to the same pin.
+
+## Materials
+
+### Hardware
+
+- A 1x1' sheet of 1/4" thick acrylic
