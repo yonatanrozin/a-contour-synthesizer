@@ -28,4 +28,6 @@ Since each circuit produces an analog (non-binary) signal, the circuits need to 
 
 ### Hardware
 
-- A 1x1' sheet of 1/4" thick acrylic
+- A 1x1' sheet of 1/4" thick acrylic, cut and engraved using the attached [Adobe Illustrator file](https://github.com/yonatanrozin/a-contour-synthesizer/blob/main/Contour%20Synth%201.ai)
+-- For engraving: 10% speed, 60% power
+-- For cutting: 12% speed, 100% power, 5000DPI
