@@ -14,3 +14,7 @@ The third and most unpredictable method is to use the line data as the waveform 
 
 Finally, using simultaneous Max for Live patches, the incoming line data can be routed to a number of tracks in Ableton Live, each with their own amp envelope, additive synth and waveform data, allowing a variety of "instruments" to be played and manipulated simultaneously. 
 
+## Physical Interface
+
+The physical interface uses an Arduino wired to 16 analog circuits, each of which consists of a length of conductive rubber cord suspended over a strip of copper tape. The rubber cords are wired to voltage while the copper strips are grounded. The 2 components never touch until a weight is placed on the cable, lowering it down until it makes contact with the tape, completing the circuit. Since the cord is highly resistive to current, the current exiting the circuit will vary depending on how far up the cord the point of contact was made. The contour of an object placed on a surface can be extrapolated by placing these points on a graph and connecting the dots.
+
