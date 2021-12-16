@@ -12,7 +12,7 @@ The second method is to use the line as a graph of overtone data to perform addi
 
 The third and most unpredictable method is to use the line data as the waveform of the sound itself. In sound synthesis, the shape of a sound wave (a function of the pressure of the air it travels through over time) has a profoud effect on its timbre. For example, a sine wave produces the most pure and smooth sounding pitch. Waveforms with sharp corners such as square waves and especially sawtooth waves generate sharper, more harsh sounding pitches. A waveform visualization can be found [here](https://en.wikipedia.org/wiki/Square_wave#/media/File:Waveforms.svg) for reference. When custom waveforms are used, the timbre of the resulting pitch is an unpredictable function of the features of the wave. Using the contour of a shape as a custom waveform is therefore guaranteed to produce interesting and varied timbral results.
 
-Finally, using simultaneous Max for Live patches, the incoming line data can be routed to a number of tracks in Ableton Live, each with their own amp envelope, additive synth and waveform data, allowing a variety of "instruments" to be played and manipulated simultaneously. 
+Finally, using simultaneous Max/MSP synthesizer sub-patches, the incoming line data can be routed to one of 3 simultaneous "instruments", each with their own amp envelope, additive synth and waveform data, allowing a variety of timbres to be manipulated and played at will. 
 
 ## Physical Interface
 
