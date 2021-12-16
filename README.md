@@ -1,4 +1,4 @@
-# A Contour Synthesizer
+# A Contour Synthesizer (in progress)
 A musical interface that uses the shapes of objects to create and modify sound
 
 ## Introduction
