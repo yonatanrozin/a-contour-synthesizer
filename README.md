@@ -42,3 +42,10 @@ Since each circuit produces an analog (non-binary) signal, the circuits need to 
 
 - [Max/MSP](https://cycling74.com/products/max)
 - The [Arduino IDE](https://www.arduino.cc/en/software)
+
+## Special thanks
+
+- A massive thanks to [Luisa Pereira](https://www.luisapereira.net/) for coordinating the 2021 NIME class and show and for all her guidance and inspiration! 
+ - An additional thanks to resident assistants [Cy Kim](https://www.cy-kim.com/), [Cy X](https://cyberwitch666.com/) and [Nico Cabalquinto](https://niccab.com/) for their endless efforts in helping the class and show run as smoothly as it did!
+- A second thanks to [Luke Dubois](https://www.lukedubois.com/) for showing me everything I needed to know about Max/MSP and sound synthesis!
+- A final thanks to [Billy Bennett](https://billybennett.tv/) for introducing me to sound synthesis and analog oscillators!
