@@ -1,5 +1,5 @@
 # A Contour Synthesizer (in progress)
-A musical interface that uses the shapes of objects to create and modify sound. 
+A musical interface that uses the shapes of objects to create and modify sound. A performance of it from the 2021 ITP NIME show can be found [here](https://youtu.be/sQyrICoycBQ).
 
 ## Introduction
 Contour Synthesizer is the final project for my New Interfaces for Musical Expression and Interaction Design courses, in which physical interfaces are designed, built and used to create sound and digital interfaces are designed and built in Max/MSP, respectively. The sound synthesis performed by this project is based heavily off the contents of a third course, Hacking Audio Hardware, in which analog synthesizers are built that generate sounds from scratch.
