@@ -1,4 +1,4 @@
-# A Contour Synthesizer (in progress)
+# The Contour Synthesizer
 A musical interface that uses the shapes of objects to create and modify sound. A performance of it from the 2021 ITP NIME show can be found [here](https://youtu.be/sQyrICoycBQ).
 
 ## Introduction
