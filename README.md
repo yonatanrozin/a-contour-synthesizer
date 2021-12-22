@@ -41,5 +41,4 @@ Since each circuit produces an analog (non-binary) signal, the circuits need to 
 ### Software
 
 - [Max/MSP](https://cycling74.com/products/max)
-- [Ableton Live](https://www.ableton.com/en/)
 - The [Arduino IDE](https://www.arduino.cc/en/software)
