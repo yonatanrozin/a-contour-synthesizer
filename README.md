@@ -35,6 +35,7 @@ Since each circuit produces an analog (non-binary) signal, the circuits need to 
 - Roughly 9ft of 6mm-wide copper tape
 - Roughly 4m of [conductive rubber stretch sensor](https://www.adafruit.com/product/519)
 - An [Arduino Nano 33 IoT](https://store-usa.arduino.cc/products/arduino-nano-33-iot)
+- Any MIDI keyboard/controller. The Max/MSP patch was programmed for use with the [MPK Mini](https://www.akaipro.com/mpk-mini-mkii), and would have to be modified if used with a different controller.
 - 16 general purpose NPN transistors, such as [these](https://www.onsemi.com/pdf/datasheet/2n3903-d.pdf)
 
 ### Software
