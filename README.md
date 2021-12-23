@@ -28,15 +28,14 @@ Since each circuit produces an analog (non-binary) signal, the circuits need to 
 
 ### Hardware
 
-- A 1x1' sheet of 1/4" thick acrylic, cut and engraved using the attached [Adobe Illustrator file](https://github.com/yonatanrozin/a-contour-synthesizer/blob/main/Contour%20Synth%201.ai)
-  - For engraving: 10% speed, 60% power (low speed to achieve a deep engraving - pause between slots to prevent acrylic warping)
-  - For cutting: 12% speed, 100% power, 5000DPI
+- 2 1x1' sheets of 1/4" thick acrylic, cut and engraved using the attached Adobe Illustrator file.
+  - For engraving, use a lower speed and higher power than usual to achieve a deeper engraving, but no deeper than around 1mm
 - 32 inline wire connectors, such as the ones harvested from these [terminal blocks](https://www.mcmaster.com/touch-safe-terminal-blocks/for-wire-gauge~12/wire-connection-type~screw-clamp-terminals/current-per-circuit~20a/length~1-3-16/)
 - Roughly 9ft of 6mm-wide copper tape
 - Roughly 4m of [conductive rubber stretch sensor](https://www.adafruit.com/product/519)
 - An [Arduino Nano 33 IoT](https://store-usa.arduino.cc/products/arduino-nano-33-iot)
 - Any MIDI keyboard/controller. The Max/MSP patch was programmed for use with the [MPK Mini](https://www.akaipro.com/mpk-mini-mkii), and would have to be modified if used with a different controller.
-- 16 general purpose NPN transistors, such as [these](https://www.onsemi.com/pdf/datasheet/2n3903-d.pdf)
+- 16 general purpose NPN transistors, such as [these](https://www.onsemi.com/pdf/datasheet/2n3903-d.pdf) and 17 4.7kΩ resistors
 
 ### Software
 
